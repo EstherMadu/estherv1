@@ -92,7 +92,7 @@ const Header = () => {
                 width={{ base: "100px", lg: "180px" }}
                 height={{ base: "100px", lg: "180px" }}
                 src="/images/profile.jpg"
-                alt="Jude Francis"
+                alt="Esther Maduabuchi"
               />
             </Flex>
           </motion.div>
