@@ -1,5 +1,13 @@
 let projects = [
   {
+    id: "harvesthub",
+    category: "git",
+    title: "Harvesthub",
+    image: "/images/projects/harvesthub.png",
+    link: "https://github.com/EstherMadu/harvesthub",
+    description: `Harvesthub an application designed to address the rising cost of food in Nigeria caused by middlemen in the supply chain, with a plan to reduce food inflation by 20%, and decrease overreliance on imported produce.`,
+  },
+  {
     id: "backroad",
     category: "web",
     title: "Backroad",
@@ -31,37 +39,6 @@ let projects = [
     link: "https://es-pig-game.netlify.app/",
     description: `The ES Pig Game is a well-designed and entertaining web app built with JavaScript. It's a fun, two-player game that challenges users to roll dice and accumulate points, with a simple and intuitive interface.`,
   },
-  // {
-  //   id: 'lcu',
-  //   category: 'web',
-  //   title: 'Le Citoyen University',
-  //   image: '/images/projects/lcu.png',
-  //   link: 'https://lecitoyenuniversity.org'
-  // },
-  // {
-  //   id: 'estam',
-  //   category: 'web',
-  //   title: 'Estam University',
-  //   image: '/images/projects/estam.png',
-  //   link: 'https://estamuni.net',
-  //   description: `Ecole Superieure Des Technologies Advances de Management (ESTAM) is a private university in Republic of Benin. The University is poised to foster a tradition of academic excellence, effect social change and development through its pioneering manpower.`
-  // },
-  // {
-  //   id: 'quick-chat',
-  //   category: 'web',
-  //   title: 'Quick chat',
-  //   image: '/images/projects/quickchatt.png',
-  //   link: 'https://quickchatt.herokuapp.com',
-  //   github: 'https://github.com/jsbuddy/quick-chat'
-  // },
-  // {
-  //   id: 'tasks',
-  //   category: 'web',
-  //   title: 'Tasks',
-  //   image: '/images/projects/tasksmgr.png',
-  //   link: 'https://tasksmgr.herokuapp.com',
-  //   github: 'https://github.com/jsbuddy/tasks'
-  // },
   {
     id: "bible-shop",
     category: "web",

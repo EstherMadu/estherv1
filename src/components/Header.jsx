@@ -55,11 +55,11 @@ const Header = () => {
                   lineHeight="1.6"
                   verticalAlign="middle"
                 >
-                  I'm{" "}
+                  I am{" "}
                   <Text as="span" fontWeight="semibold">
                     Esther Maduabuchi
                   </Text>
-                  , a frontend engineer with a passion for creating beautiful,
+                  , a fullstack developer with a passion for creating beautiful,
                   intuitive, and accessible experiences. Find some of my work
                   below.
                 </Text>
