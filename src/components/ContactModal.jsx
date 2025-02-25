@@ -113,7 +113,7 @@ const ContactModal = ({ isOpen, onClose }) => {
               onClick={() =>
                 handleClick(
                   "Resume",
-                  "https://drive.google.com/file/d/1bGTOrRvn2-FCrY06HKV5hRDSdeCH35D-/view?usp=sharing"
+                  "https://drive.google.com/file/d/1OLLivZLmRy4grHcz4ZXxxUgogfSZw7On/view?usp=sharing"
                 )
               }
               direction="column"

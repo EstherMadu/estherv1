@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Flex, SimpleGrid, Text, VStack } from "@chakra-ui/react";
-import { SiGit, SiCss3, SiHtml5, SiTailwindcss } from "react-icons/si";
+import { SiGit, SiCss3, SiHtml5, SiTailwindcss, SiPython, SiFlask, SiMysql, SiFastapi } from "react-icons/si";
 import { RiReactjsFill } from "react-icons/ri";
 import { FaBootstrap } from "react-icons/fa";
 
@@ -10,7 +10,26 @@ const items = [
     link: "https://reactjs.org",
     icon: <RiReactjsFill size="65" />,
   },
-
+  {
+    name: "Python",
+    link: "https://www.python.org/",
+    icon: <SiPython size="65" />,
+  },
+  {
+    name: "Flask",
+    link: "https://flask.palletsprojects.com/en/stable/",
+    icon: <SiFlask size="65" />,
+  },
+  {
+    name: "MySql",
+    link: "https://www.mysql.com/",
+    icon: <SiMysql size="65" />,
+  },
+  {
+    name: "Fastapi",
+    link: "https://fastapi.tiangolo.com/",
+    icon: <SiFastapi size="65" />,
+  },
   {
     name: "Tailwind CSS",
     link: "https://tailwindcss.com",
@@ -21,7 +40,11 @@ const items = [
     link: "https://getbootstrap.com/",
     icon: <FaBootstrap size="65" />,
   },
-  { name: "Git", link: "https://git-scm.com", icon: <SiGit size="55" /> },
+  { 
+    name: "Git", 
+    link: "https://git-scm.com", 
+    icon: <SiGit size="55" /> ,
+  },
   {
     name: "Html5",
     link: "https://www.w3schools.com/html/",
