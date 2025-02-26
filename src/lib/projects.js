@@ -23,6 +23,14 @@ let projects = [
     link: "https://backroad-build.netlify.app/",
     description: `The Backroads landing page is visually appealing, easy to navigate, and effectively communicates the app's features and benefits through engaging images and clear call-to-action buttons.`,
   },
+  {
+    id: "one shout",
+    category: "web",
+    title: "One shout",
+    image: "/images/projects/one-shout.png",
+    link: "https://oneshoutsecurity.com/",
+    description: `One shout landing page was built to showcase the features of a security app and it was built with React.`,
+  },
   // {
   //   id: "meme-generator",
   //   category: "web",
